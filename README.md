@@ -6,7 +6,7 @@
 ## 💫 About Me :
 - 😄 Pronouns: He/His
 - 🔭 I’m currently create **Flutter Mobile Application**
-- 👯 I’m currently working & building Bluetooth Apps, Exhibition Apps.
+- 👯 I’m currently working & on building Bluetooth Apps and exhibition Apps.
 - 🌱 I’m currently learning more about **SwiftUI**
 
 ### Languages and Tools:
