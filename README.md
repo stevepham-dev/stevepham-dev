@@ -1,8 +1,7 @@
 - 👋 Hi, I’m **Steve Pham** (**@stevepham-dev**)
 - 🌱 I’m currently learning **Flutter & SwiftUI**
 ### Connect with me:
-![Twitter Follow](https://img.shields.io/twitter/follow/StevephamDev?label=StevephamDev&logo=twitter&style=for-the-badge)
-<a href="https://twitter.com/StevephamDev" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Steve Pham" height="22" width="22" /></a>
+![Twitter Follow](https://img.shields.io/twitter/follow/StevephamDev?label=Steve Pham&logo=twitter&style=for-the-badge)
 
 <br />
 
