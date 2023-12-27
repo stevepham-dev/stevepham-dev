@@ -10,5 +10,7 @@
 - 🌱 I’m currently learning more about **SwiftUI**
 
 ### Languages and Tools:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevepham-dev&layout=compact&hide=html" alt="stevepham-dev" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stevepham-dev&show_icons=true" alt="stevepham-dev" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevepham-dev&hide=javascript,css,scss,html&theme=algolia)
+<p align="left">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=stevepham-dev&show_icons=true&theme=algolia" />
+</p>
